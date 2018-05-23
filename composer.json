@@ -2,7 +2,6 @@
   "name": "arapel/database-exporter",
   "description": "This package make your db tables to sql. you can use it for backups with cron jobs or manualy...",
   "type": "library",
-  "version": "1.0.0",
   "keywords": [
     "laravel",
     "import",
@@ -25,5 +24,6 @@
       ]
     }
   },
-  "minimum-stability": ""
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
