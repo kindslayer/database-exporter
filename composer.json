@@ -10,7 +10,7 @@
     "export",
     "database"
   ],
-  "license": "GNU",
+  "license": "GPL-3.0-or-later",
   "require": {
     "php": "5.4",
     "laravel/laravel": "5.4"
